@@ -1,2 +1,4 @@
 # open-source-demo
-Experiment 8.
+
+This project demonstrates an open-source development workflow
+using GitHub Issues, branches, commits, and pull requests.
